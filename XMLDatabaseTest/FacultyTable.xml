@@ -1,0 +1,42 @@
+<by.grsu.fiyas.table.FacultyTable>
+  <rows>
+    <by.grsu.fiyas.datamodel.Faculty>
+      <id>1716706488633287</id>
+      <name>Faculty of math and CS</name>
+      <selectionPlan>23</selectionPlan>
+      <subjects class="java.util.Arrays$ArrayList">
+        <a class="by.grsu.fiyas.datamodel.AcademicSubject-array">
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Math</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Physics</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Russian language</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+        </a>
+      </subjects>
+      <isEnabled>true</isEnabled>
+    </by.grsu.fiyas.datamodel.Faculty>
+    <by.grsu.fiyas.datamodel.Faculty>
+      <id>1716706526122094</id>
+      <name>Faculty of math and CS</name>
+      <selectionPlan>23</selectionPlan>
+      <subjects class="java.util.Arrays$ArrayList">
+        <a class="by.grsu.fiyas.datamodel.AcademicSubject-array">
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Math</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Physics</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+          <by.grsu.fiyas.datamodel.AcademicSubject>
+            <name>Russian language</name>
+          </by.grsu.fiyas.datamodel.AcademicSubject>
+        </a>
+      </subjects>
+      <isEnabled>true</isEnabled>
+    </by.grsu.fiyas.datamodel.Faculty>
+  </rows>
+</by.grsu.fiyas.table.FacultyTable>

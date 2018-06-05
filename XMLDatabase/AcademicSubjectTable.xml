@@ -1,0 +1,8 @@
+<by.grsu.fiyas.table.AcademicSubjectTable>
+  <rows>
+    <by.grsu.fiyas.datamodel.AcademicSubject>
+      <id>1716964827715207</id>
+      <name>Rus</name>
+    </by.grsu.fiyas.datamodel.AcademicSubject>
+  </rows>
+</by.grsu.fiyas.table.AcademicSubjectTable>
